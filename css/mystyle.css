@@ -1,0 +1,20 @@
+.rightside
+{
+	float: right;
+	width: 50%;
+}
+.leftside
+{
+	float: left;
+	width: 45%;
+}
+.button
+{
+	background: #333;
+    border: 1px solid #333;
+    padding: .5em 2em;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: .9em;
+    letter-spacing: 2px;
+}
